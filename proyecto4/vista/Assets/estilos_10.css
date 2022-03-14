@@ -1,0 +1,98 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#inicio
+{
+    font-family: sans-serif;
+    background-image: url("Fondoinicio.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+#logo
+{
+    float: left;
+    width: 4%;
+}
+
+header
+{
+    width: 100%;
+    margin: 0px; 
+}
+
+#contenido
+{
+    padding: 10%;
+    width: 80%;
+    margin: 0px auto;
+    color: #9c4598;
+}
+
+
+#Informacion
+{
+    background: #fae7e1;
+    color: #9c4598;
+    padding-left: 2%;
+    padding-top: 1%;
+    float: left;
+}
+
+li a
+{
+    display: block;
+    padding: 10px;
+}
+
+nav ul li
+{
+    float: right;
+    color: white;
+    margin: 0px;
+    line-height: 25px;
+    list-style-type: none; 
+    display: inline-block;
+    text-align: center;
+}
+
+li a:hover
+{
+    background: #fdbd58;
+}
+
+a{
+    color: #9c4598;
+    text-decoration: none;  
+}
+
+nav{
+    background: #fae7e1;
+    padding-left: 2%;
+    height: 45px;
+
+}
+
+
+.boton
+{
+    width: 10%;
+    background: #e82a66;
+    color: white;
+    padding: 13px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.cbx
+{
+    width: 40%;
+    background: white;
+    padding: 7px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}

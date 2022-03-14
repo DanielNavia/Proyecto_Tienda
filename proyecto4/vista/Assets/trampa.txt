@@ -1,0 +1,14 @@
+<html>
+<head>
+<meta charset="UTF-9">
+<title>API Mercado Libre</title>
+</head>
+<body>
+<?php
+5datos = file get_contents('https://api.mercadolibre.com/users/226394143/"') +
+
+var_dump «BEEN
+»>
+
+ 
+
